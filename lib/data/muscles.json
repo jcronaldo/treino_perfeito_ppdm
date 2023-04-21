@@ -1,0 +1,158 @@
+[
+    {
+        "exercicio": "Supino reto",
+        "grupo": "Peitoral",
+        "subgrupo": "Peitoral Maior",
+        "execucao": "Deitado em um banco, segure a barra com as mãos afastadas na largura dos ombros e desça lentamente até a barra tocar o peito. Em seguida, empurre a barra de volta até a posição inicial."
+    },
+    {
+        "exercicio": "Supino inclinado",
+        "grupo": "Peitoral",
+        "subgrupo": "Peitoral Maior",
+        "execucao": "Deitado em um banco inclinado, segure a barra com as mãos afastadas na largura dos ombros e desça lentamente até a barra tocar o peito. Em seguida, empurre a barra de volta até a posição inicial."
+    },
+    {
+        "exercicio": "Flexão de braço",
+        "grupo": "Peitoral",
+        "subgrupo": "Peitoral Menor",
+        "execucao": "Com as mãos apoiadas no chão, afastadas na largura dos ombros, desça o corpo até próximo do chão e empurre de volta até a posição inicial."
+    },
+    {
+        "exercicio": "Cross over",
+        "grupo": "Peitoral",
+        "subgrupo": "Peitoral Menor",
+        "execucao": "De pé, segure os cabos de uma máquina e cruze as mãos em frente ao corpo. Em seguida, afaste os braços até que estejam alinhados com os ombros e volte à posição inicial."
+    },
+    {
+        "exercicio": "Barra fixa",
+        "grupo": "Costas",
+        "subgrupo": "Dorsal",
+        "execucao": "Segure uma barra fixa com as mãos afastadas na largura dos ombros e puxe o corpo até que o queixo esteja acima da barra. Em seguida, abaixe o corpo até a posição inicial."
+    },
+    {
+        "exercicio": "Remada",
+        "grupo": "Costas",
+        "subgrupo": "Dorsal",
+        "execucao": "Sentado em um banco, segure os cabos de uma máquina com as mãos e puxe-os em direção ao corpo, mantendo as costas retas. Em seguida, volte à posição inicial."
+    },
+    {
+        "exercicio": "Encolhimento de Ombros com Barra",
+        "grupo": "Costas",
+        "subgrupo": "Trapézio",
+        "execucao": "Segure uma barra com as mãos afastadas na largura dos ombros e fique em pé com os pés afastados na largura dos ombros. Levante os ombros o mais alto possível, encolhendo-os em direção às orelhas. Mantenha a contração no topo do movimento e depois abaixe os ombros de volta à posição"
+    },
+    {
+        "exercicio": "Remada Alta com Halteres",
+        "grupo": "Costas",
+        "subgrupo": "Trapézio",
+        "execucao": "Segure uma barra com as mãos afastadas na largura dos ombros e fique em pé com os pés afastados na largura dos ombros. Levante os ombros o mais alto possível, encolhendo-os em direção às orelhas. Mantenha a contração no topo do movimento e depois abaixe os ombros de volta à posição"
+    },
+    {
+        "exercicio": "Levantamento Terra",
+        "grupo": "Costas",
+        "subgrupo": "Lombar",
+        "execucao": "Fique em pé com os pés afastados na largura dos ombros e segure uma barra com as mãos afastadas na largura dos ombros. Levante a barra até que fique em frente às suas coxas. Levante a barra mantendo as costas retas até ficar em posição totalmente ereta. Abaixe a barra de volta à posição inicial. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Hiperextensão Lombar",
+        "grupo": "Costas",
+        "subgrupo": "Lombar",
+        "execucao": "Deite-se de bruços em um banco inclinado, com os quadris apoiados na parte mais alta do banco e os pés presos. Mantenha as mãos cruzadas atrás da cabeça ou apoiadas no peito. Levante o tronco o mais alto possível, mantendo a contração na posição superior. Abaixe o tronco de volta à posição inicial. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Remada alta",
+        "grupo": "Costas",
+        "subgrupo": "Romboide",
+        "execucao": "Em pé, segure uma barra com as mãos afastadas na largura dos ombros e puxe-a em direção ao peito, mantendo os cotovelos elevados. Em seguida, abaixe a barra até a posição inicial."
+    },
+    {
+        "exercicio": "Puxada no pulley inversa",
+        "grupo": "Costas",
+        "subgrupo": "Romboide",
+        "execucao": "Sentado em um banco, segure a barra do pulley com as mãos e puxe-a em direção ao corpo, mantendo os cotovelos próximos ao tronco. Em seguida, volte à posição inicial."
+    },
+    {
+        "exercicio": "Rosca direta",
+        "grupo": "Braços",
+        "subgrupo": "Bíceps",
+        "execucao": "Em pé, segure uma barra com as mãos afastadas na largura dos ombros e levante-a em direção aos ombros, mantendo os cotovelos fixos. Em seguida, abaixe a barra até a posição inicial."
+    },
+    {
+        "exercicio": "Martelo",
+        "grupo": "Braços",
+        "subgrupo": "Bíceps",
+        "execucao": "Em pé, segure dois halteres com as palmas das mãos voltadas para dentro e levante-os em direção aos ombros, mantendo os cotovelos fixos. Em seguida, abaixe os halteres até a posição inicial."
+    },
+    {
+        "exercicio": "Paralelas",
+        "grupo": "Braços",
+        "subgrupo": "Tríceps",
+        "execucao": "Com as mãos apoiadas em duas barras paralelas, desça o corpo até que os braços estejam dobrados em um ângulo de 90 graus. Em seguida, empurre o corpo de volta até a posição inicial."
+    },
+    {
+        "exercicio": "Tríceps testa",
+        "grupo": "Braços",
+        "subgrupo": "Tríceps",
+        "execucao": "Deitado em um banco, segure uma barra com as mãos afastadas na largura dos ombros e desça-a em direção à testa, mantendo os cotovelos próximos ao corpo. Em seguida, empurre a barra de volta até a posição inicial."
+    },
+    {
+        "exercicio": "Crunch",
+        "grupo": "Abdominal",
+        "subgrupo": "Retos",
+        "execucao": "Deitado de costas, com as mãos apoiadas atrás da cabeça, levante o tronco em direção aos joelhos, contraindo os músculos abdominais. Em seguida, abaixe o tronco até a posição inicial."
+    },
+    {
+        "exercicio": "Elevação de pernas",
+        "grupo": "Abdominal",
+        "subgrupo": "Retos",
+        "execucao": "Deitado de costas, com as mãos apoiadas no chão, levante as pernas até que elas formem um ângulo de 90 graus com o tronco. Em seguida, abaixe as pernas até a posição inicial."
+    },
+    {
+        "exercicio": "Prancha lateral",
+        "grupo": "Abdominal",
+        "subgrupo": "Obliquos",
+        "execucao": "Deitado de lado, apoiado no antebraço, levante o quadril em direção ao teto, mantendo o corpo alinhado. Em seguida, abaixe o quadril até a posição inicial."
+    },
+    {
+        "exercicio": "Torção russa",
+        "grupo": "Abdominal",
+        "subgrupo": "Obliquos",
+        "execucao": "Sentado no chão, com os joelhos flexionados, segure um peso com as duas mãos e gire o tronco para um lado e para o outro, contraindo os músculos abdominais. Em seguida, volte à posição inicial."
+    },
+    {
+        "exercicio": "Agachamento Livre",
+        "grupo": "Pernas",
+        "subgrupo": "Quadríceps",
+        "execucao": "Fique em pé com os pés afastados na largura dos ombros e a barra nas costas. Agache até que as coxas fiquem paralelas ao chão. Levante-se novamente até que as pernas estejam totalmente estendidas. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Leg Press",
+        "grupo": "Pernas",
+        "subgrupo": "Quadríceps",
+        "execucao": "Sente-se em uma máquina de leg press com os pés apoiados na plataforma. Empurre a plataforma para longe do corpo até que as pernas estejam estendidas. Abaixe a plataforma de volta à posição inicial. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Stiff",
+        "grupo": "Pernas",
+        "subgrupo": "Isquiotibiais",
+        "execucao": "Segure uma barra com as mãos afastadas na largura dos ombros e fique em pé com os pés afastados na largura dos ombros. Mantenha as costas retas e desça"
+    },
+    {
+        "exercicio": "Flexão de Pernas deitado",
+        "grupo": "Pernas",
+        "subgrupo": "Isquiotibiais",
+        "execucao": "Deite-se de bruços em uma máquina de flexão de pernas. Coloque as caneleiras na altura dos tornozelos. Flexione os joelhos e traga os calcanhares em direção aos glúteos. Estenda as pernas de volta à posição inicial. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Elevação de Panturrilha em pé",
+        "grupo": "Pernas",
+        "subgrupo": "Panturrilhas",
+        "execucao": "Fique em pé com as pontas dos pés na borda de uma plataforma elevada. Levante os calcanhares até ficar na ponta dos pés. Mantenha a contração na posição superior e depois abaixe os calcanhares de volta à posição inicial. Repita o movimento por várias repetições."
+    },
+    {
+        "exercicio": "Elevação de Panturrilha Sentado",
+        "grupo": "Pernas",
+        "subgrupo": "Panturrilhas",
+        "execucao": "Sente-se em uma máquina de elevação de panturrilha. Coloque as almofadas nas coxas e posicione os pés na plataforma. Levante os calcanhares até ficar na ponta dos pés. Mantenha a contração na posição superior e depois abaixe os calcanhares de volta à posição inicial. Repita o movimento por várias repetições."
+    }
+]
